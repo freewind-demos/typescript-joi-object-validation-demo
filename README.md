@@ -1,5 +1,5 @@
-TypeScript Hello World Demo
-===========================
+TypeScript Joi Object Validation Demo
+=====================================
 
 ```
 npm install
